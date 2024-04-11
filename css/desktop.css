@@ -1,0 +1,25 @@
+header{
+    padding: 8rem 4rem 0;
+}
+
+.header__info h1{
+    font-size: 8rem;
+    width: 50%;
+    line-height: 6rem;
+}
+
+.header__info p{
+    width: 60%;
+}
+
+.header__card, .header__img{
+    top: -10rem;
+}
+
+.header__img img{
+    max-height: 50rem;
+}
+
+.s-uno-detalles{
+  grid-template-columns: repeat(3, 1fr);
+}

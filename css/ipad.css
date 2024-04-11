@@ -1,0 +1,31 @@
+.header__info h1{
+    font-size: 7rem;
+    width: 60%;
+    line-height: 6rem;
+}
+
+.header__card{
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.header__img{
+    display: flex;
+    justify-content: end;
+}
+
+.header__img img{
+    max-height: 45rem;
+}
+
+.s-uno-titulo h2{
+    font-size: 3rem;
+}
+
+.s-uno-titulo p{
+    font-size: 4rem;
+    width: 60%;
+}
+.s-uno-detalles{
+    grid-template-columns: repeat(2, 1fr);
+
+}
